@@ -2,7 +2,9 @@
 
 
 MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS 
+
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
+
 ii. Matrix summation with a 2D grid and 2D blocks. Adapt it to integer matrix addition. Find the best execution configuration. </h3>
 
 ## AIM:
